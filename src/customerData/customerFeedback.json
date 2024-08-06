@@ -1,0 +1,37 @@
+[
+    {
+        "idNo": "c001",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFNE2CZZzsF5-Jtx_O7qLS_3x0ZLoR2Tnvg&s",
+        "name": "Jenny Wilson",
+        "rating": 4,
+        "feedback": "The representative I spoke with was incredibly patient and knowledgeable. She took the time to understand my issue and walked me through the solution step-by-step. I appreciate the personalized attention and how she made a potentially frustrating experience much more pleasant."
+    },
+    {
+        "idNo": "c002",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFNE2CZZzsF5-Jtx_O7qLS_3x0ZLoR2Tnvg&s",
+        "name": "Rusell Kim",
+        "rating": 1,
+        "feedback": "I'm disappointed with the long wait times for phone support. I was on hold for over 30 minutes before speaking with someone. While the agent was helpful once I got through, the company needs to improve their response times or offer more support channels."
+    },
+    {
+        "idNo": "c003",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFNE2CZZzsF5-Jtx_O7qLS_3x0ZLoR2Tnvg&s",
+        "name": "Devoe Lane",
+        "rating": 3,
+        "feedback": "The online chat feature is fantastic! I got an immediate response to my question, and the agent was able to quickly resolve my issue. It's convenient and time-saving. I hope more companies adopt this type of efficient customer service."
+    },
+    {
+        "idNo": "c004",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFNE2CZZzsF5-Jtx_O7qLS_3x0ZLoR2Tnvg&s",
+        "name": "Will Jack",
+        "rating": 5,
+        "feedback": "I had a complex problem with my account, and I was impressed by how the support team handled it. They escalated the issue to a specialist who contacted me directly. The follow-up was prompt, and they kept me informed throughout the resolution process." 
+    },
+    {
+        "idNo": "c005",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFNE2CZZzsF5-Jtx_O7qLS_3x0ZLoR2Tnvg&s",
+        "name": "Henry Ford",
+        "rating": 2,
+        "feedback": "The customer service rep I dealt with seemed rushed and uninterested in helping me. He provided vague answers and didn't seem to fully understand my concerns. I left the interaction feeling frustrated and with my problem still unresolved. More training on active listening and problem-solving skills would greatly improve the experience."
+    }
+]
